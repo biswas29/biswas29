@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 apt-get update
 apt-get install git
+
 git clone https://github.com/jisu/socialbox-termux.git
+
 cd SocialBox-Termux
 chmod +x install-sb.sh
 ./install-sb.sh
